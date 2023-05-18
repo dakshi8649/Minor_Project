@@ -1,0 +1,13 @@
+hr{
+    margin: 0;
+    color: black;
+    opacity: 1;
+    border-width: 2px;
+    margin: 0 5%;
+}
+li{
+    list-style-type: none;
+}
+
+
+
